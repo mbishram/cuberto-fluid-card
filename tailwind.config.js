@@ -5,7 +5,11 @@ module.exports = {
 	],
 	darkMode: false,
 	theme: {
-		extend: {},
+		extend: {
+			fontFamily: {
+				sans: ["Lexend", "ui-sans-serif", "system-ui", "-apple-system"],
+			},
+		},
 	},
 	variants: {
 		extend: {},
