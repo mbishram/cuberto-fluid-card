@@ -1,5 +1,5 @@
 import Head from "next/head";
-import FluidCard from "@components/FluidCard";
+import FluidCard from "@components/fluid-card";
 
 export default function Home() {
 	return (
