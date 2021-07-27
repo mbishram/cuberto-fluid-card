@@ -1,0 +1,4 @@
+.filter {
+	-webkit-filter: url("#goo-filter");
+	filter: url("#goo-filter");
+}
